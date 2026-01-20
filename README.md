@@ -7,6 +7,8 @@
 `dotnet build` <br/>
 `dotnet run --project KodeqaEcommerce.WebAPI\KodeqaEcommerce.WebAPI.csproj`
 
+### Please find products.json into the project (in the Data folder)
+
 ### Calculated Results from test cases
 - test case 1: Input: productId=PROD-001, quantity=55, country=MK
 `finalPrice: 700.92`
