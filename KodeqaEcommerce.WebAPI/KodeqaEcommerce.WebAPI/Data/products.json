@@ -1,0 +1,29 @@
+﻿{
+  "products": [
+    {
+      "id": "PROD-001",
+      "name": "Premium Widget",
+      "price": 12.00
+    },
+    {
+      "id": "PROD-002",
+      "name": "Standard Widget",
+      "price": 8.50
+    },
+    {
+      "id": "PROD-003",
+      "name": "Basic Widget",
+      "price": 5.00
+    },
+    {
+      "id": "PROD-004",
+      "name": "Advanced Gadget",
+      "price": 24.99
+    },
+    {
+      "id": "PROD-005",
+      "name": "Enterprise Gadget",
+      "price": 49.90
+    }
+  ]
+}
