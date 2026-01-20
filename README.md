@@ -4,7 +4,7 @@
 **Author:** @antoniostefanovski `stefanovsky.antonio@gmail.com`
 
 ### How to run the application
-`dotnet build`
+`dotnet build` <br/>
 `dotnet run --project KodeqaEcommerce.WebAPI\KodeqaEcommerce.WebAPI.csproj`
 
 ### Calculated Results from test cases
@@ -22,7 +22,9 @@ Bugs fixed (by the given business rules):
 - Corrected discount tier boundaries (by the given rules from the table)
 - Corrected discount tier ordering (instead of overriding the value)
 - Added SubTotalAfterDiscount since it was missing
+<br/>
 Additional Improvements:
+
 - Replaced multiple method parameters with a single DTO to simplify the response-building logic.
 - Made the discount threshold configurable via application settings.
 - Implemented all missing business rules as defined in the assignment.
